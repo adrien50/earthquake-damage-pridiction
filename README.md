@@ -99,7 +99,7 @@ There are 39 columns in this dataset, where the building_id column is a unique a
 
 # Conclusion
 
-Random Forest Classifier was choose for the submission with the accuracy of 0.71
+## Random Forest Classifier was choose for the submission with the accuracy of 0.71
  
 
 
