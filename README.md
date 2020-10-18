@@ -1,9 +1,6 @@
-# Datamites internship : Richter's Predictor: Modeling Earthquake Damage 
+# internship project : Richter's Predictor: Modeling Earthquake Damage 
 
-During my internship at Datamites in india, I worked on that project for which I have received grade B+
-
-Hosted By DrivenData 
-https://www.drivendata.org/competitions/57/nepal-earthquake/
+### During my internship at Datamites in india, I worked on that project for which I have received grade B+
 
 # Overview
 
