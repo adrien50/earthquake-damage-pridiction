@@ -1,4 +1,4 @@
-# internship project : Richter's Predictor: Modeling Earthquake Damage 
+# Data science Internship project : Richter's Predictor: Modeling Earthquake Damage 
 
 ### During my internship at Datamites in india, I have worked on that project for which I have received grade B+
 
