@@ -88,6 +88,12 @@ There are 39 columns in this dataset, where the building_id column is a unique a
 
 •	has_secondary_use_industry (type: binary): flag variable that indicates if the building was used for industrial purposes. 
 
+# Conclusion
+
+Random Forest Classifier was choose for the submission with the accuracy of 0.71
+
+
+
 •	has_secondary_use_health_post (type: binary): flag variable that indicates if the building was used as a health post. 
 
 •	has_secondary_use_gov_office (type: binary): flag variable that indicates if the building was used fas a government office. 
