@@ -1,6 +1,6 @@
 # Data science Capstone project : Richter's Predictor. Modeling Earthquake Damage 
 
-### During my internship at Datamites in India, I have worked on that project for which I have received grade B+
+### During my internship as a Data science consultant at Rubixe, I have worked on that project for which I have received grade B+
 
 # Overview
 
