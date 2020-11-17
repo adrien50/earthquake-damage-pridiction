@@ -1,7 +1,5 @@
 # Data science Capstone project : Richter's Predictor. Modeling Earthquake Damage 
 
-### During my internship as a Data science consultant at Rubixe, I have worked on that project for which I have received grade B+
-
 # Overview
 
 Based on aspects of building location and construction, your goal is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal. The data was collected through surveys by Kathmandu Living Labs and the Central Bureau of Statistics, which works under the National Planning Commission Secretariat of Nepal. 
